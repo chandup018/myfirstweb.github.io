@@ -1,0 +1,19 @@
+.card{
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    padding: 50px;
+    margin: 5x;
+    background-color: rgb(214, 140, 239);
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 5px 5px 15px rgb(162, 10, 10);
+}
+.card img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid black;
+    
+}

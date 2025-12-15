@@ -1,0 +1,28 @@
+.card{
+    height: 650px;
+    width: 500px;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(236, 239, 140);
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 5px 5px 15px rgb(162, 10, 10);
+}
+.card img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid black;
+
+
+}
+
+
+body{
+    text-align: center;
+}
+h1{
+    background-color: white;
+}
